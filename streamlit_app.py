@@ -74,6 +74,11 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
+     labels[0]: {
+       "texts": ["신라면은", "맛있습니다."],
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fk-venue.com%2Fitem%2F1005006558145496&psig=AOvVaw0i2LVbD3QyU82w-eM_DZvP&ust=1762496405642000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCm5vLw3JADFQAAAAAdAAAAABAL"],
+       "videos": ["https://www.youtube.com/watch?v=CyOersDdDho"]
+     },
 }
 
 # ======================
