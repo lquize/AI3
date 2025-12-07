@@ -79,6 +79,21 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fk-venue.com%2Fitem%2F1005006558145496&psig=AOvVaw0i2LVbD3QyU82w-eM_DZvP&ust=1762496405642000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCm5vLw3JADFQAAAAAdAAAAABAL"],
        "videos": ["https://www.youtube.com/watch?v=CyOersDdDho"]
      },
+    labels[1]: {
+       "texts": ["육개장 사발면은", "맛있습니다."],
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj-NfZXJQBcxcoilfe48P-5Nba0IqnEdZ4Gg&s"],
+       "videos": ["https://www.youtube.com/shorts/f6dswqq_zVM?feature=share"]
+     },
+    labels[2]: {
+       "texts": ["짜파구리는", "맛있습니다."],
+       "images": ["https://brand.nongshim.com/chapaguri/main/index"],
+       "videos": ["https://www.youtube.com/shorts/zyePDX23zDg"]
+     },
+   labels[3]: {
+       "texts": ["팔도비빔면은", "맛있습니다."],
+       "images": ["https://paldofood.co.kr/data/product/234102_noodle-001.png"],
+       "videos": ["https://www.youtube.com/watch?v=9EDDdmhx0z8&pp=ygUP7YyU64-E67mE67mU66m0"]
+     },
 }
 
 # ======================
